@@ -1,5 +1,9 @@
 # 🚀 Featured Projects
 
+## ☁️ Cloud-Based Intrusion Detection System (IDS)
+A fully automated, cloud-native security monitoring system built with **AWS CDK** and **Python**. It features real-time VPC Flow Log analysis via **AWS Lambda**, automated alerting through **Amazon SNS**, and a centralized **CloudWatch Dashboard** for visual threat monitoring.
+[**View Repository**](https://github.com/mukulsain09/Cloud-Based-Intrusion-Detection-System)
+
 ## 🔍 Windows Artifacts Parser
 A DFIR tool designed to extract, parse, and analyze important Windows forensic artifacts including logs, registry data, browser history, scheduled tasks, and system traces for forensic investigations and threat hunting.
 
@@ -24,13 +28,19 @@ Security research projects focused on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=python,aws,bash,powershell,linux,git,github,vscode,docker" />
 
 </div>
 
 # 🛠️ Security Interests
 
 ```yaml
+Cloud Security:
+  - AWS Infrastructure
+  - Serverless Monitoring (Lambda)
+  - Log Aggregation (CloudWatch)
+  - Real-time Threat Detection
+
 Digital Forensics:
   - Windows Artifacts
   - Event Log Analysis
@@ -46,6 +56,7 @@ Cybersecurity:
   - Incident Response
 
 Tools:
+  - AWS CDK
   - Sysmon
   - YARA
   - Wireshark
