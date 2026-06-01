@@ -1,7 +1,11 @@
 # 🚀 Featured Projects
 
 ## ☁️ Cloud-Based Intrusion Detection System (IDS)
-A fully automated, cloud-native security monitoring system built with **AWS CDK** and **Python**. It features real-time VPC Flow Log analysis via **AWS Lambda**, automated alerting through **Amazon SNS**, and a centralized **CloudWatch Dashboard** for visual threat monitoring.
+A professional-grade, cloud-native security monitoring system built with **AWS CDK** and **Python**.
+- **Real-time Detection:** Analyzes VPC Flow Logs via **AWS Lambda** to identify unauthorized access.
+- **Automated Alerting:** Instant notifications through **Amazon SNS** for rapid threat response.
+- **SOC Dashboard:** A comprehensive **CloudWatch Dashboard** featuring real-time traffic graphs and **Log Insights** to track top attacking IPs.
+- **IaC Driven:** 100% automated deployment and teardown for cost-efficiency and scalability.
 [**View Repository**](https://github.com/mukulsain09/Cloud-Based-Intrusion-Detection-System)
 
 ## 🔍 Windows Artifacts Parser
