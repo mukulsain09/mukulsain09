@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Mukul!
 ### 🛡️ DFIR | Cloud Security | Detection Engineer
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukulsain09&show_icons=true&theme=tokyonight&hide_border=true" alt="Mukul's GitHub Stats" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**☁️ Cloud IDS**](https://github.com/mukulsain09/Cloud-Based-Intrusion-Detection-System) | Automated cloud monitoring with real-time Lambda log analysis and SNS alerting. | `AWS CDK`, `Python`, `Lambda`, `SNS` |
-| [**🔍 Artifacts Parser**](https://github.com/mukulsain09/Windows-Artifacts-Parser) | Deep dive forensic tool for extracting and analyzing critical Windows system traces. | `Python`, `Windows Internals` |
-| [**🛡️ DFIR Automation**](https://github.com/mukulsain09/DFIR-Security-Automation) | Suite of tools for automated IOC extraction and incident response workflows. | `PowerShell`, `Python`, `Bash` |
+**[☁️ Cloud-Based Intrusion Detection System (IDS)](https://github.com/mukulsain09/Cloud-Based-Intrusion-Detection-System)**  
+A professional-grade, cloud-native security monitoring system built with **AWS CDK** and **Python**. This project automates the deployment of a real-time monitoring pipeline that analyzes VPC Flow Logs via **AWS Lambda**, detects unauthorized access attempts, and sends instant alerts through **Amazon SNS**. It includes a centralized **CloudWatch Dashboard** for visual threat monitoring and SOC-style log insights.
+
+**[🔍 Windows Artifacts Parser](https://github.com/mukulsain09/Windows-Artifacts-Parser)**  
+A deep-dive forensic tool designed to extract, parse, and analyze critical Windows system traces. This tool focuses on gathering intelligence from system logs, registry data, and browser history to assist in forensic investigations and threat hunting, providing a clear timeline of user activity and system events.
+
+**[🛡️ DFIR & Security Automation](https://github.com/mukulsain09/DFIR-Security-Automation)**  
+A comprehensive collection of scripts and utilities built to automate the heavy lifting in Incident Response. This suite facilitates automated IOC extraction, log analysis, and forensic triage workflows across Windows and Linux environments, significantly reducing the time required for initial threat assessment.
 
 ---
 
@@ -29,12 +28,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,bash,powershell,linux,git,github,vscode,docker,windows,linux" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulsain09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
