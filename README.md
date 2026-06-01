@@ -1,5 +1,4 @@
 # Hi there, I'm Mukul Sain 👋
-### **DFIR | Cloud Security | Detection Engineer**
 
 Dedicated Security Researcher specializing in building automated forensic suites, cloud-native defense systems, and ICS/OT security simulations. I bridge the gap between complex security data and actionable intelligence.
 
