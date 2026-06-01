@@ -18,16 +18,8 @@ Dedicated Security Researcher specializing in building automated forensic suites
 *   **[OT-CyberSim](https://github.com/mukulsain09/OT-CYBERSIM)**: A "Mini Power Plant" security lab simulating a SCADA environment (PLC/HMI) to study Modbus TCP vulnerabilities and defense strategies.
 *   **[RSA Secure Chat & MITM Simulator](https://github.com/mukulsain09/RSA-SECURE-CHAT-MITM-SIMULATOR)**: A Java-based cryptographic simulation featuring an encrypted GUI chat and an adversarial server for traffic interception analysis.
 
----
-
-### 🛠️ Technical Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,bash,git,java,mysql,flask,fastapi&theme=dark" />
-</p>
 
 ```yaml
-Expertise:
   - Infrastructure: AWS (CDK, Lambda, CloudWatch, VPC), Docker
   - Forensics: Timeline Reconstruction, Artifact Analysis (Windows/Linux)
   - Security Ops: SIEM (Splunk/ELK), IDS/IPS, Malware Analysis
