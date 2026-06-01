@@ -1,68 +1,57 @@
-# 👋 Hi, I'm Mukul!
-### 🛡️ DFIR | Cloud Security | Detection Engineer
+# Hi there, I'm Mukul Sain 👋
+### **DFIR | Cloud Security | Detection Engineer**
+
+Dedicated Security Researcher specializing in building automated forensic suites, cloud-native defense systems, and ICS/OT security simulations. I bridge the gap between complex security data and actionable intelligence.
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-**[☁️ Cloud-Based Intrusion Detection System (IDS)](https://github.com/mukulsain09/Cloud-Based-Intrusion-Detection-System)**  
-A professional-grade, cloud-native security monitoring system built with **AWS CDK** and **Python**. This project automates the deployment of a real-time monitoring pipeline that analyzes VPC Flow Logs via **AWS Lambda**, detects unauthorized access attempts, and sends instant alerts through **Amazon SNS**. It includes a centralized **CloudWatch Dashboard** for visual threat monitoring and SOC-style log insights.
+#### ☁️ Cloud & Network Defense
+*   **[Cloud-Based IDS](https://github.com/mukulsain09/CLOUD-BASED-INTRUSION-DETECTION-SYSTEM)**: An automated, cloud-native detection system using **AWS CDK**, **Lambda**, and **SNS**. Features real-time VPC Flow Log analysis and instant alerting.
+*   **[ML-Based Intrusion Detection](https://github.com/mukulsain09/ML-BASED-INTRUSIONDETECTION)**: An anomaly detection engine trained on the **NSL-KDD dataset** using Scikit-Learn to classify malicious network traffic.
 
-**[🤖 ML-Based Intrusion Detection System](https://github.com/mukulsain09/ml-based-intrusiondetection)**  
-An end-to-end machine learning solution designed to classify network traffic and detect anomalies using the **NSL-KDD dataset**. Built with **Scikit-Learn** and **Python**, the project implements a **Random Forest Classifier** and a robust preprocessing pipeline (Standard Scaling, One-Hot Encoding). It features model persistence for production-ready inference, ensuring that incoming network data can be analyzed in real-time with the same transformations used during training.
+#### 🔍 Digital Forensics (DFIR)
+*   **[Windows Forensic Analysis Suite v2.0](https://github.com/mukulsain09/WINDOWS-FORENSIC-ANALYSIS-SUITE-VERSION-2.0-)**: A comprehensive powerhouse for automated discovery and visualization of 8+ critical Windows artifacts (Prefetch, LNK, ShellBags, etc.).
+*   **[Windows Artifacts Parser](https://github.com/mukulsain09/WINDOWS-ARTIFACTS-PARSER)**: A specialized DFIR tool designed for deep-dive extraction and correlation of forensic evidence from Windows system files.
 
-**[🔍 Windows Artifacts Parser](https://github.com/mukulsain09/Windows-Artifacts-Parser)**  
-A deep-dive forensic tool designed to extract, parse, and analyze critical Windows system traces. This tool focuses on gathering intelligence from system logs, registry data, and browser history to assist in forensic investigations and threat hunting, providing a clear timeline of user activity and system events.
-
-**[🛡️ DFIR & Security Automation](https://github.com/mukulsain09/DFIR-Security-Automation)**  
-A comprehensive collection of scripts and utilities built to automate the heavy lifting in Incident Response. This suite facilitates automated IOC extraction, log analysis, and forensic triage workflows across Windows and Linux environments, significantly reducing the time required for initial threat assessment.
-
----
-
-## ⚙️ Security Research & Malware Analysis
-*This section highlights my ongoing research into detection engineering and system internals.*
-- **Detection Engineering:** Creating YARA rules and Sysmon configs for threat hunting.
-- **Windows Internals:** Deep analysis of the Windows Registry, Shellbags, and Event Logs.
-- **Incident Response:** Developing automated playbooks for forensic triage.
+#### ⚙️ Industrial & Adversarial Research
+*   **[OT-CyberSim](https://github.com/mukulsain09/OT-CYBERSIM)**: A "Mini Power Plant" security lab simulating a SCADA environment (PLC/HMI) to study Modbus TCP vulnerabilities and defense strategies.
+*   **[RSA Secure Chat & MITM Simulator](https://github.com/mukulsain09/RSA-SECURE-CHAT-MITM-SIMULATOR)**: A Java-based cryptographic simulation featuring an encrypted GUI chat and an adversarial server for traffic interception analysis.
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🛠️ Technical Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,bash,powershell,linux,git,github,vscode,docker,windows,linux" />
-</div>
-
----
-
-## 🛠️ Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,aws,linux,docker,bash,git,java,mysql,flask,fastapi&theme=dark" />
+</p>
 
 ```yaml
-Cloud Security:
-  - Infrastructure as Code (CDK)
-  - Real-time Monitoring (CloudWatch)
-  - Serverless Security (Lambda)
-
-Digital Forensics:
-  - Windows Artifacts Analysis
-  - Registry & Shellbag Forensics
-  - Timeline Reconstruction
-
-Cybersecurity:
-  - Detection Engineering
-  - Threat Hunting & Triage
-  - Incident Response Automation
+Expertise:
+  - Infrastructure: AWS (CDK, Lambda, CloudWatch, VPC), Docker
+  - Forensics: Timeline Reconstruction, Artifact Analysis (Windows/Linux)
+  - Security Ops: SIEM (Splunk/ELK), IDS/IPS, Malware Analysis
+  - DevSecOps: Automated Triage Scripts, Python for Security
 ```
 
 ---
 
-## 🌐 Connect With Me
+### 📊 GitHub Insights
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mukul-sain">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukulsain09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulsain09&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukulsain09/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mukul09temp@gmail.com">
+  <a href="mailto:mukulsain09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
