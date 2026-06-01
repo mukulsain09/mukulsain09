@@ -34,17 +34,6 @@ Expertise:
   - DevSecOps: Automated Triage Scripts, Python for Security
 ```
 
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukulsain09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukulsain09&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mukulsain09/">
